@@ -181,7 +181,7 @@ export default function ContactPage() {
                   </div>
                   <div className={styles.infoText}>
                     <h4>Call Us</h4>
-                    <p>+91 97914 18921</p>
+                    <p>+91 99999 99999</p>
                   </div>
                 </div>
 
@@ -191,7 +191,7 @@ export default function ContactPage() {
                   </div>
                   <div className={styles.infoText}>
                     <h4>Email Us</h4>
-                    <p>mahizhroinnovation@gmail.com</p>
+                    <p>dummy@email.com</p>
                   </div>
                 </div>
 

@@ -37,7 +37,7 @@ export default function Navbar() {
       <div className={styles.topBar}>
         <div className={styles.topBarInner}>
           <div className={styles.topBarContact}>
-            Call us : +91 97914 18921 — Email: mahizhroinnovation@gmail.com
+            Call us : +91 99999 99999 — Email: dummy@email.com
           </div>
           <div className={styles.socials}>
             <a href="#" aria-label="Facebook" className={styles.socialLink}>

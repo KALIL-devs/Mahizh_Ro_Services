@@ -86,7 +86,7 @@ export default function ProductCarousel({
                 Enquire Now
               </Link>
               <a
-                href={`https://wa.me/919791418921?text=Hi,%20I%20am%20interested%20in%20${encodeURIComponent(selectedProduct.name)}.`}
+                href={`https://wa.me/919999999999?text=Hi,%20I%20am%20interested%20in%20${encodeURIComponent(selectedProduct.name)}.`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className={styles.btnWhatsapp}

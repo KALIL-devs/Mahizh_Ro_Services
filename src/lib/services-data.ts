@@ -6,9 +6,9 @@
 
 export const SITE = {
   name: "Mahizh RO Innovation",
-  phone: "+91 97914 18921",
-  phoneRaw: "+919791418921",
-  whatsapp: "919791418921",
+  phone: "+91 75984 xxxxx",
+  phoneRaw: "+9175984xxxxx",
+  whatsapp: "9175984xxxxx",
   url: "https://mahizhro.com",
   cities: ["Theni", "Madurai", "Dindigul", "Coimbatore", "Salem", "Chennai"],
 };

@@ -1,6 +1,6 @@
 # Mahizh RO Innovation
 
-A modern, high-performance web application for Mahizh RO Innovation, a premier provider of commercial RO plants and water purification solutions in Theni. Built to showcase industrial water purification products, hospital and hotel RO solutions, and maintenance services.
+A modern, high-performance web application for Mahizh RO Innovation, a premier provider of commercial RO plants and water purification solutions. Built to showcase industrial water purification products, hospital and hotel RO solutions, and maintenance services.
 
 ![Next.js](https://img.shields.io/badge/Next.js-14+-black?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
